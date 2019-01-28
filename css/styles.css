@@ -1,0 +1,229 @@
+body {
+  background-color: #f1f1f1;
+}
+
+.headerMain {
+
+}
+
+
+.footerMain {
+
+}
+
+#foodah {
+  background-color: #343a40;
+}
+
+.phnum {
+  color: #cccccc;
+  font-size: 12px;
+}
+
+.midcontent {
+  background: linear-gradient(180deg, #007bff 0%, #ff7bff 100%);
+}
+
+.MainPic {
+
+  background-image: url(https://clenix.fi/wp-content/uploads/2017/09/clenix_siivous.jpg);
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+#maintitlelogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#palvelutitle {
+  color: #FFF;
+  text-align: center;
+}
+
+#slogan {
+  text-align: center;
+}
+
+#ardown {
+  position: sticky;
+  left: 900px;
+  top: 260px;
+}
+
+#ardown:hover {
+
+}
+
+.arowa {
+  background-image: url(https://imgur.com/7iqLzV2)
+}
+
+.mokinvuokraus {
+  position: relative;
+  left: 300px;
+  top: 120px;
+}
+.mokinvuokraus img{
+  position: relative;
+  top: 40px;
+}
+
+.mokinvuokraus h4 {
+  color: #FFF;
+  position: relative;
+  left: 70px;
+
+}
+
+#mokki {
+  color: #ff61e2;
+}
+
+.kemikaliton h3{
+  position: relative;
+  left: 120px;
+}
+
+.vkrbtn {
+  position: relative;
+  left: 140px;
+}
+
+.yboxed h3{
+  color: #FFF;
+  text-align: center;
+}
+.yboxed h6{
+  color: #FFF;
+  text-align: center;
+}
+
+.yboxed {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background: linear-gradient(0deg, #007bff 0%, #ff7bff 100%);
+    width: 420px;
+  position: relative;
+  left: 360px;
+}
+
+.downmid {
+  background: linear-gradient(0deg, #007bff 0%, #ff7bff 100%);
+}
+
+.picseries {
+  text-align: center;
+}
+
+.yhteisbtn {
+  text-align: center;
+  position: relative;
+  top: 10px;
+}
+
+
+
+
+
+
+footer {
+  background: -webkit-gradient(linear, left bottom, right top, color-stop(10%,#007bff), color-stop(100%,#663399));
+}
+
+.footlist1 {
+  color: #FFF;
+  list-style: none;
+  position: relative;
+  left: 340px;
+  top: 50px;
+}
+
+
+
+.footlist2n3 {
+  position: relative;
+  left: 1440px;
+  bottom: 80px;
+}
+
+.footlist2 {
+  color: #FFF;
+  list-style: none;
+}
+
+.footlist3 {
+  color: #FFF;
+  list-style: none;
+}
+
+.vkrmkfooter {
+  list-style: none;
+  position: relative;
+  left: 780px;
+  bottom: 290px;
+}
+
+.footerlogoimg {
+  position: relative;
+  left: 840px
+  bottom: 250px;
+}
+
+#ftrmmg {
+  position: relative;
+  left: 840px
+  bottom: 250px;
+}
+
+.copyrite {
+  text-align: center;
+}
+
+#fbico {
+  height: 60px;
+  width: auto;
+  position: relative;
+  right: 545px;
+}
+
+
+
+/*FORM GENERAL*/
+.tilaustitle {
+  color: #FFF;
+  text-align: center;
+}
+
+
+
+/*KOTISIIVOUKSET - PAGE*/
+
+.esimerkkibtn {
+  text-align: center;
+  position: relative;
+  top: 140px;
+  left: 280px;
+}
+
+#esimerkkitxt {
+  color: #FFF;
+  padding-bottom: 25px;
+}
+
+.paksuhko {
+  color: #ff7aff;
+}
+
+/*Kotiisvous-form*/
+
+.kotisiivousform {
+  text-align: center;
+}
