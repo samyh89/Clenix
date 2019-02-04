@@ -206,6 +206,19 @@ footer {
 
 /*KOTISIIVOUKSET - PAGE*/
 
+.KotisiivousPic {
+
+  background-image: url(https://clenix.fi/wp-content/uploads/2017/09/clenix_siivous.jpg);
+  height: 38%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
 .esimerkkibtn {
   text-align: center;
   position: relative;
@@ -234,4 +247,100 @@ footer {
 
 .cardstit {
   color: #FFF;
+}
+
+
+
+
+/*MAIN PICTURES FOR EACH PAGES!!!*/
+
+.YrityssiivouksetPic {
+
+  background-image: url(https://clenix.fi/wp-content/uploads/2017/09/clenix_siivous.jpg);
+  height: 38%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.TuhoelaintorjuntaPic {
+
+  background-image: url(https://clenix.fi/wp-content/uploads/2017/09/clenix_siivous.jpg);
+  height: 38%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.DesinfiointiPic {
+
+  background-image: url(https://clenix.fi/wp-content/uploads/2017/09/clenix_siivous.jpg);
+  height: 38%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.RaivaussiivousPic {
+
+  background-image: url(https://clenix.fi/wp-content/uploads/2017/09/clenix_siivous.jpg);
+  height: 38%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.ReferenssitPic {
+
+  background-image: url(https://clenix.fi/wp-content/uploads/2017/09/clenix_siivous.jpg);
+  height: 38%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.RekrytointiPic {
+
+  background-image: url(https://clenix.fi/wp-content/uploads/2017/09/clenix_siivous.jpg);
+  height: 38%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.YritysPic {
+
+  background-image: url(https://clenix.fi/wp-content/uploads/2017/09/clenix_siivous.jpg);
+  height: 38%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
